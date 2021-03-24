@@ -1,1 +1,1 @@
-![Metrics](https://github.com/wertherm/wertherm/blob/master/github-metrics.svg)
+![Metrics](https://metrics.lecoq.io/wertherm)
