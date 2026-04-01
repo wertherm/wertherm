@@ -30,8 +30,6 @@
 * 🐧 OS configuration, optimization, and virtualization environments.
 * 🤖 Architecture and orchestration of autonomous AI agents.
 * 📈 Deep diving into Delta Neutral strategies and fee arbitrage in the crypto market.
-* 🛼 Practicing speedskating on the streets.
-* 🎨 **Outside the Box:** Oil painting and amateur woodworking (essential non-tech escapes to keep the creative juices flowing!).
 
 ---
 
