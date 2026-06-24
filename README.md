@@ -1,6 +1,6 @@
 # Hello! I'm Werther Maia 👋
 
-### Web3 & Blockchain Developer | Full Stack
+### Web3 | Full Stack Developer
 
 ---
 
