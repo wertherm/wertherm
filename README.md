@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-* 🌐 Full Stack an Web3 Developer holding an MBA in Service-Oriented Software Engineering.
+* 🌐 Full Stack and Web3 Developer holding an MBA in Service-Oriented Software Engineering.
 * ⏳ 15 years of experience in the development, testing, deployment, and support of applications across Web, Desktop, and Mobile platforms.
 * 🏗️ Currently focused on building traceability platforms using Hyperledger Besu and Smart Contracts.
 * 🔗 Hands-on experience with Hyperledger migrations and NFT management on the Polygon network.
