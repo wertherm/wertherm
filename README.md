@@ -1,12 +1,12 @@
 # Hello! I'm Werther Maia 👋
 
-### Web3 | Full Stack Developer
+### Full Stack | Web3 Developer
 
 ---
 
 ## 🚀 About Me
 
-* 🌐 Blockchain and Full Stack Developer holding an MBA in Service-Oriented Software Engineering.
+* 🌐 Full Stack an Web3 Developer holding an MBA in Service-Oriented Software Engineering.
 * ⏳ 15 years of experience in the development, testing, deployment, and support of applications across Web, Desktop, and Mobile platforms.
 * 🏗️ Currently focused on building traceability platforms using Hyperledger Besu and Smart Contracts.
 * 🔗 Hands-on experience with Hyperledger migrations and NFT management on the Polygon network.
